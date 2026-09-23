@@ -3,8 +3,8 @@ package 시온;
 public class SelectSorting {
 
   public static void main(String[] args) {
-    System.out.println("메인에서 작업을 하고,");
-    System.out.println("내용도 달라요");
+    System.out.println("예시용 코드입니다.");
+    System.out.println("이거 왜 안 되지;;");
+    System.out.println("이제 됩니다.");
   }
-
 }
